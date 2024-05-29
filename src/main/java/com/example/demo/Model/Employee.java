@@ -21,6 +21,8 @@ public class Employee {
 	
 	private String empName;
 	
+	private int EmpAge;
+	
 	private String email;
 	
 	private long deptId;

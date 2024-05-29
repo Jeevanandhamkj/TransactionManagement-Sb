@@ -19,7 +19,7 @@ public class Department {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long deptId;
 	
-	private String depname;
+	private String deptname;
 	
 	private int deptcode;
 
